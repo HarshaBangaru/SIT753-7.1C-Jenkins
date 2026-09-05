@@ -1,5 +1,7 @@
 pipeline {
     agent any
+    
+    // Jenkins pipeline for SIT753 7.1C
 
     stages {
 
